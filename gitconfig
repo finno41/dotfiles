@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = oliver.james.finn@gmail.com
+	name = Oli Finn
